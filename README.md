@@ -1,5 +1,5 @@
 <h2 align="center" style="color:#00bfff; font-weight:800; letter-spacing:1px;">
-👋 Hi, I’m <span style="color:#00ffe6;">Aaqib Altaf</span>
+👋 Hi, I’m <span style="color:#00ffe6;">Aakif Altaf</span>
 </h2>
 
 <p align="center" style="color:#c9d1d9; font-size:17px; line-height:1.7; max-width:900px; margin:auto;">
