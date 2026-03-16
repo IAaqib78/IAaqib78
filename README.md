@@ -100,7 +100,7 @@ If a model can’t survive scale, ambiguity, or business pressure  it doesn’t 
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aaqib-altaf-94021a146/" target="_blank">
+  <a href="[https://www.linkedin.com/in/aakif-altaf-94021a146/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
   </a>
   &nbsp;&nbsp;
